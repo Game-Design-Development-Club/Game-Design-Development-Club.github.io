@@ -11,6 +11,11 @@
     margin-left: 20px;
 }
 
+section{
+    background-color: black;
+    color: white;
+}
+
 body{
     background-color: black;
 }
