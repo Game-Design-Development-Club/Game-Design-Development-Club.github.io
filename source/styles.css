@@ -1,0 +1,16 @@
+.title{
+    font-weight: bold;
+    font-size: 75px;
+    color: white;
+    margin-left: 20px;  
+}
+
+.para1{
+    color: white;
+    font-size: 25px;
+    margin-left: 20px;
+}
+
+body{
+    background-color: black;
+}
